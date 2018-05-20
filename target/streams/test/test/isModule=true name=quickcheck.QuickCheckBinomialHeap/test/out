@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min from 2 in empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sorted: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.melding heaps: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.meld: OK, passed 100 tests.[0m
